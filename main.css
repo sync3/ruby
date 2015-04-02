@@ -1,0 +1,102 @@
+body{
+background:no-repeat ,linear-gradient(#eee, #C88909)
+}
+div.big{
+width:100%;
+height:100%;
+/*margin:0px auto;
+border:1px;
+background:-moz-linear-gradient(#F6EEEE, #DD9F22);*/
+
+}
+
+.big div{
+margin:0px auto;
+/*background:white;*/
+width:700px;
+height:50px;
+/*border: 1px solid red;*/
+ 
+}
+.big div:hover{
+/*background:#aad;*/
+}
+#todo:hover{
+background-image:url(edit_task_view.jpg);
+}
+
+#todo{
+font-size:28;
+color:white;
+background-image:url(head_task.jpg);
+cursor:pointer;
+
+}
+div#input-tnask {
+margin:0px auto;
+/*background:yellow;*/
+background-image:url(add_task_view.jpg);
+cursor:pointer;
+}
+
+
+
+
+#task1 {
+margin:0px auto;
+/*background:yellow;*/
+background-image:url(task.jpg);
+/*cursor:pointer;*/
+display:block;
+
+}
+#task1:hover {
+margin:0px auto;
+/*background:yellow;*/
+background-image:url(edit_list_view.jpg);
+/*cursor:pointer;*/
+
+	}
+	
+#inp3{
+width:80px;
+margin-top:10px;
+margin-left:200px;
+}	
+#inp0{
+width:480px;
+margin-top:10px;
+margin-left:60px;
+}
+
+div#showdata{
+
+height:50px;
+/*margin-top:10px;*/
+margin-left:60px;
+/*margin-top:10px;*/
+font:20px arial;
+}
+#st{
+/*width:100px;*/
+margin-left:60px;
+margin-top:10px;
+}
+div.addto{
+margin-left:90px;
+}
+.buted{
+/*margin-left:500px;*/
+float: right;
+
+}
+
+
+	.button{
+	margin-right:200px;
+	}
+	
+.butdel{
+ float: right;
+margin-right:80px;
+}
